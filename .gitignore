@@ -1,0 +1,10 @@
+**/x64/
+.vs/
+**/extlibs/
+**/ressources/
+
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.docx
